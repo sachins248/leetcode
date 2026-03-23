@@ -11,3 +11,5 @@ class Solution {
         return new int[]{};
     }
 }
+
+// For each number, check if (target - number) is already in a hash map. If yes, you found the pair. If not, store the current number.
