@@ -11,3 +11,6 @@ class Solution {
         return false;
     }
 }
+
+
+// Add each number to a set as you go if its already in the set you found a duplicate.
