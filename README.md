@@ -1,8 +1,7 @@
 # LeetCode Solutions
 
-Solutions organized by data structure used to solve the problem.
+How I solved popular LeetCode problems, I sorted it by Data structure used to solve.
 
-## Folders
 - `hashmaps-hashsets` — HashMap and HashSet problems
 - `arrays` — Array problems
 - `two-pointers` — Two pointer problems
